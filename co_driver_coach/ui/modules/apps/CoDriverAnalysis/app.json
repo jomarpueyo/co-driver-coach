@@ -1,0 +1,21 @@
+{
+  "domElement": "<co-driver-analysis></co-driver-analysis>",
+  "name": "Co-Driver Analysis",
+  "types": [
+    "ui.apps.categories.vehicle_info"
+  ],
+  "description": "Post-drive engineer review: your line and speed against a theoretical better line, corners ranked by time lost, telemetry with a draggable cursor and corner replays.",
+  "css": {
+    "position": "absolute",
+    "top": "0",
+    "left": "0",
+    "right": "0",
+    "bottom": "0"
+  },
+  "author": "Co-Driver Coach",
+  "version": "1.0",
+  "directive": "coDriverAnalysis",
+  "category": "Gameplay",
+  "isAuxiliary": false,
+  "interactive": "yes"
+}

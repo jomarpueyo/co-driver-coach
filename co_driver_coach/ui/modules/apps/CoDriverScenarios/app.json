@@ -1,0 +1,25 @@
+{
+  "domElement": "<co-driver-scenarios></co-driver-scenarios>",
+  "name": "Co-Driver Scenarios",
+  "types": [
+    "ui.apps.categories.vehicle_info"
+  ],
+  "description": "One-click practice scenarios for the Co-Driver Coach: map, start point, car and surface, with an optional GPS stage.",
+  "css": {
+    "position": "absolute",
+    "top": "130px",
+    "left": "0",
+    "right": "0",
+    "margin": "auto",
+    "width": "860px",
+    "height": "600px",
+    "min-width": "360px",
+    "min-height": "240px"
+  },
+  "author": "Co-Driver Coach",
+  "version": "1.0",
+  "directive": "coDriverScenarios",
+  "category": "Gameplay",
+  "isAuxiliary": false,
+  "interactive": "yes"
+}

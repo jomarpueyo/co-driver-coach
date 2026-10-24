@@ -1,0 +1,25 @@
+{
+  "domElement": "<co-driver-coach></co-driver-coach>",
+  "name": "Co-Driver Coach",
+  "types": [
+    "ui.apps.categories.vehicle_info"
+  ],
+  "description": "Live pacenotes, braking cues, shift light and slide hints.",
+  "css": {
+    "position": "absolute",
+    "top": "8px",
+    "left": "0",
+    "right": "0",
+    "margin": "auto",
+    "width": "460px",
+    "height": "112px",
+    "min-width": "360px",
+    "min-height": "100px"
+  },
+  "author": "Co-Driver Coach",
+  "version": "1.0",
+  "directive": "coDriverCoach",
+  "category": "Gameplay",
+  "isAuxiliary": false,
+  "interactive": "yes"
+}

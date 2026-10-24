@@ -1,0 +1,25 @@
+{
+  "domElement": "<co-driver-debrief></co-driver-debrief>",
+  "name": "Co-Driver Debrief",
+  "types": [
+    "ui.apps.categories.vehicle_info"
+  ],
+  "description": "End-of-drive summary: letter grades for each driving skill, your focus area and the mindset to work on.",
+  "css": {
+    "position": "absolute",
+    "top": "130px",
+    "left": "0",
+    "right": "0",
+    "margin": "auto",
+    "width": "860px",
+    "height": "640px",
+    "min-width": "360px",
+    "min-height": "240px"
+  },
+  "author": "Co-Driver Coach",
+  "version": "1.0",
+  "directive": "coDriverDebrief",
+  "category": "Gameplay",
+  "isAuxiliary": false,
+  "interactive": "yes"
+}

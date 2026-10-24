@@ -1,0 +1,17 @@
+{
+  "tts": "kokoro",
+  "kokoro_voice": "af_heart",
+  "speed": 0.95,
+  "tts_threads": 4,
+  "voice": "en_GB-jenny_dioco-medium",
+  "style": "natural",
+  "whisper": "base.en",
+  "threads": 2,
+  "volume": 1.0,
+  "priority": "below_normal",
+  "mic_preroll": true,
+  "voice_log_keep": 300,
+  "local_answers": true,
+  "drive_thinking": true,
+  "review_tools": false
+}

@@ -1,0 +1,120 @@
+one left
+one right
+two left
+two right
+three left
+three right
+four left
+four right
+five left
+five right
+six left
+six right
+flat left
+flat right
+easy left
+easy right
+medium left
+medium right
+hard left
+hard right
+square left
+square right
+hairpin left
+hairpin right
+tight hairpin left
+tight hairpin right
+tightens
+opens
+long
+very long
+don't cut
+keep in
+keep left
+keep right
+narrows
+into
+and
+crest
+big crest
+small crest
+over crest
+jump
+dip
+bumpy
+slippy
+caution
+double caution
+fifty
+one hundred
+one fifty
+two hundred
+two fifty
+three hundred
+four hundred
+five hundred
+brake
+brake now
+brake hard
+slow down
+easy
+flat out
+oversteer
+understeer
+countersteer
+ease off
+catch it
+nice save
+shift up
+shift down
+stage ready
+three
+two
+one
+go
+halfway
+one kilometer to go
+five hundred to go
+finish
+drive complete
+nice drive
+great drive
+that was messy
+overall grade
+A
+B
+C
+D
+F
+plus
+minus
+focus on braking
+focus on corner entry
+focus on commitment
+focus on car control
+focus on smoothness
+focus on staying on the road
+focus on gear use
+good corner
+too hot
+too slow
+clean so far
+off the road
+back on the road
+ouch
+are you okay
+reset
+let's go
+loading
+scenario ready
+restarting
+stage cancelled
+tarmac
+gravel
+snow
+coach on
+coach off
+new best
+better than last time
+same as last time
+worse than last time

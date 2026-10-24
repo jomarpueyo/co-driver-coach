@@ -1,0 +1,23 @@
+{
+  "domElement": "<co-driver-map></co-driver-map>",
+  "name": "Co-Driver Map",
+  "types": [
+    "ui.apps.categories.vehicle_info"
+  ],
+  "description": "Top-down lines of the road the Co-Driver Coach is reading, with corners coloured by severity.",
+  "css": {
+    "position": "absolute",
+    "right": "315px",
+    "bottom": "12px",
+    "width": "230px",
+    "height": "250px",
+    "min-width": "140px",
+    "min-height": "160px"
+  },
+  "author": "Co-Driver Coach",
+  "version": "1.0",
+  "directive": "coDriverMap",
+  "category": "Gameplay",
+  "isAuxiliary": false,
+  "interactive": "no"
+}

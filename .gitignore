@@ -1,0 +1,18 @@
+# audio work files and recordings stay local
+*.wav
+*.mkv
+tools/__pycache__/
+
+# race engineer API key
+tools/.anthropic_key
+tools/.venv/
+tools/models/
+
+# personal engineer preferences (voice, style, custom prompts); engineer_config.example.json is the shared default
+tools/engineer_config.json
+
+# the last run of tools/engineer_eval.py
+tools/tests/eval_last.json
+
+# your own recorded voicepack stays on your machine
+co_driver_coach/lua/ge/extensions/gameplay/rally/compositors/voicepacks/
